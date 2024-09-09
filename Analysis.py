@@ -1,3 +1,10 @@
+# Installation:
+
+# conda init
+# conda create -n sorting_analysis python=3.9
+# conda activate sorting_analysis
+# conda install numpy matplotlib pandas memory_profiler
+
 from typing import List
 import timeit
 import tracemalloc
